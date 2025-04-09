@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Lume Estim 🌃
 
-## Getting Started
+**AI-Powered Estimating for the Construction World**
 
-First, run the development server:
+Lume Estim is a modern, immersive, dark-mode landing page for an upcoming AI-powered SaaS that helps contractors and construction estimators quote projects faster by analyzing architectural plans using artificial intelligence.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔥 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🚀 Scroll-based animations with [Framer Motion](https://www.framer.com/motion/)
+- 🌒 Dark mode UI with a sleek gradient background
+- 🎯 Clear value propositions for users
+- 📊 Live project stats, quote value, and emotional storytelling
+- 🧠 “Meet the Founder” section — built by someone *in* the construction field
+- 💬 Contact CTA with built-in mail link
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📸 Preview
 
-To learn more about Next.js, take a look at the following resources:
+![Lume Estim Preview](public/preview.png)  
+_(You can update this with a screenshot from your site!)_
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+- **Next.js** with App Router
+- **Tailwind CSS** for styling
+- **Framer Motion** for animation
+- **React** for all components
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🚧 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/lume-estim.git
+   cd lume-estim
